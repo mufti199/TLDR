@@ -1,4 +1,4 @@
-<img src="AWS.png" width=70%>
+<img src="./graphics/AWS.png" width=70%>
 
 Architect Certification - Most popular
 
